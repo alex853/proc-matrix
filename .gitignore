@@ -1,0 +1,4 @@
+/.idea/
+/.gradle/
+**/file-system-matrix-storage/
+**/build/

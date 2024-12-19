@@ -1,0 +1,1 @@
+start cmd /c gradlew -p proc-matrix-storage-service bootRun --args='trivial'

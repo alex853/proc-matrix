@@ -1,0 +1,1 @@
+start cmd /k gradlew -p proc-matrix-hello-world runHelloWorld
